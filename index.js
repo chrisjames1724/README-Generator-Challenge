@@ -27,7 +27,13 @@ const questions = [
     name: "usage",
   },
   {
-    type: "input",
+    type: "list",
+    message: "Choose a license...",
+    name: "license",
+    choices: ["GNU AGPLv3", "MIT License", "Apache License 2.0"],
+  },
+  {
+    type: "badges",
     message: "What are the contribution guidelines?",
     name: "contributing",
   },

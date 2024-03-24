@@ -1,24 +1,30 @@
-# gfewg
+# fwef
+  !https://img.shields.io/badge/License-GNU_AGPLv3-blue
 
 ## Description
-fewegbeds
+wefweafew
 
 ## Table of Contents
 undefined 
 
 ## Installation
-sdgsdg
+wefwef
 
 ## Usage
-sdgdsga
+wefwef
+
+## License
+GNU AGPLv3
+https://choosealicense.com/licenses/agpl-3.0/
+
 
 ## Contributing
-sddsgsdag
+wefew
 
 ## Tests
-sdgdsa
+wefew
 
 ## Questions
-github.com/chrisjames1724
+github.com/wefewf
 
-Reach out for more questions by emailing me @ chrisjames1724@yahoo.com
+Reach out for more questions by emailing me @ wef
