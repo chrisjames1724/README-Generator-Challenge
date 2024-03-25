@@ -70,15 +70,3 @@ function init() {
 
 // Function call to initialize app
 init();
-
-// var x = "Hello!";
-
-// // console.log(x)
-
-// function y (z) {
-//   console.log("Z: ", z)
-// }
-
-// var p = "Dennis"
-
-// y(p)
