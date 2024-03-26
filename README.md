@@ -1,33 +1,26 @@
-# wefefw
-  ![GNU AGPLv3 Badge](https://img.shields.io/badge/License-GNU_AGPLv3-blue)
+# README Generator Project
 
 ## Description
-ewfewfew
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+In this project we were instructed with creating a README through the command line using Node.js. This assignment had us implement a fs.writeFile in order to generate the README file directly from the command line based on questions asked to get user input. We also had to implement badges using shield.io as the acceptance criteria suggested.
 
 ## Installation
-efwf
 
 ## Usage
-we
+
+[Walkthrough Video]()
 
 ## License
-[GNU AGPLv3 License](https://choosealicense.com/licenses/agpl-3.0/)
+
+(https://choosealicense.com/licenses/mit/)
 
 ## Contributing
-ewfewf
+
+[Shields.io](https://shields.io/)
+[Github Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Tests
-ewfew
+
+test
 
 ## Questions
-[My GitHub Page](https://github.com/ewffew)
-
-Reach out for more questions by emailing me @ ewffew

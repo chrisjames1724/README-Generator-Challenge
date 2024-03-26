@@ -61,7 +61,7 @@ function writeToFile(README, data) {}
 function init() {
   inquirer.prompt(questions).then(function (prompt) {
     // generateMarkdown(prompt)
-    fs.writeFile("README.md", generateMarkdown(prompt), (err) =>
+    fs.writeFile("genREADME.md", generateMarkdown(prompt), (err) =>
       err ? console.log(err) : console.log("Success")
     );
     console.log(prompt);

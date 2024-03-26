@@ -48,7 +48,9 @@ ${data.installation}
 ${data.usage}
 
 ## License
-${renderLicenseLink(data.license)}
+More information about the license can be found using the following link ${renderLicenseLink(
+    data.license
+  )}
 
 ## Contributing
 ${data.contributing}
