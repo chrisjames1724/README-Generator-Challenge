@@ -8,7 +8,7 @@ In this project we were instructed with creating a README through the command li
 
 ## Usage
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1J9j8u8qQbBf9wjPj8X5Lqdkzufs8pT84/view)
 
 ## License
 

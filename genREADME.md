@@ -1,8 +1,8 @@
-# Gen ReadME
-  ![Apache 2.0](https://img.shields.io/badge/License-Apache-blue)
+# README Title
+  ![MIT Badge](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-description
+description goes here
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,19 +13,19 @@ description
 - [Questions](#questions)
 
 ## Installation
-instructions
+install instructions
 
 ## Usage
-usage
+usage information here
 
 ## License
-More information about the license can be found using the following link [Apache License2.0](https://choosealicense.com/licenses/apache-2.0/)
+More information about the license can be found using the following link [MIT License](https://choosealicense.com/licenses/mit/)
 
 ## Contributing
-contributions
+contribution guidelines
 
 ## Tests
-test instructions
+test instructions go here
 
 ## Questions
 [My GitHub Page](https://github.com/chrisjames1724)
